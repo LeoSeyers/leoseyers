@@ -14,8 +14,7 @@
     <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="php" width="40" height="40"/></p>
   
    <br /> <br />
-  <hr>
-  
+ 
   <p align="center">
     <a href="https://codepen.io/leoseyers" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leoseyers" height="30" width="30" />
