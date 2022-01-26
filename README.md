@@ -1,5 +1,5 @@
 
-<h3 align="center">Frontend dev and designer at <a href="studio-scale.com" target="_blank">studio-scale.com</a> </h3>
+<h3 align="center">Frontend developper and UX/UI Designer at <a href="studio-scale.com" target="_blank">Studio Scale</a> </h3>
 <p align="center">Building creative websites for businesses and cultural actors
 with a focus on design and performance :fire:</p>  
    <br /> <br />
